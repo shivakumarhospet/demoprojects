@@ -1,0 +1,10 @@
+package AccessModifiers1;
+
+public class PriAccessSpecifier {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
